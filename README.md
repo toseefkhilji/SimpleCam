@@ -1,3 +1,7 @@
+<h1 align="center">SimpleCam</h1>
+
+<h4 align="center">A Memory Efficient Drop In Replacement / Alternative for UIImagePicker</h4>
+
 #Adding SimpleCam to Your Project
 
 ###1. Add SimpleCam Folder to Xcode
