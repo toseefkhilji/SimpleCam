@@ -220,10 +220,6 @@
     // Dispose of any resources that can be recreated.
 }
 
-- (void) viewWillDisappear:(BOOL)animated {
-    [coverLayer removeFromSuperlayer];
-}
-
 #pragma mark CAMERA CONTROLS
 
 - (void) prepareControls {
@@ -697,6 +693,8 @@
         downloadImg = nil;
         previousImg = nil;
         cameraRotateImg = nil;
+        
+        [coverLayer removeFromSuperlayer];
         
         isRotateWaitingForResizedImage = NO;
         isImageResized = NO;
