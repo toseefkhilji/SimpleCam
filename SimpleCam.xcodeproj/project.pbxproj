@@ -7,12 +7,51 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		806170B018C68A9E00C8FF96 /* ViewControllerHeaderExample.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ViewControllerHeaderExample.png; sourceTree = "<group>"; };
+		806170B118C68A9E00C8FF96 /* AddingSimpleCamSDK.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = AddingSimpleCamSDK.gif; sourceTree = "<group>"; };
+		806170B218C68A9E00C8FF96 /* LaunchSimpleCam.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = LaunchSimpleCam.gif; sourceTree = "<group>"; };
+		806170B318C68A9E00C8FF96 /* SetUpDelegate.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SetUpDelegate.gif; sourceTree = "<group>"; };
+		806170B418C68A9E00C8FF96 /* ViewControllerHeader.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ViewControllerHeader.gif; sourceTree = "<group>"; };
+		806170B618C68AB900C8FF96 /* landscape_Camera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = landscape_Camera.png; sourceTree = "<group>"; };
+		806170B718C68AB900C8FF96 /* landscape_Preview.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = landscape_Preview.png; sourceTree = "<group>"; };
+		806170B818C68AB900C8FF96 /* landscape_RotatedPreview.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = landscape_RotatedPreview.png; sourceTree = "<group>"; };
+		806170B918C68AB900C8FF96 /* portrait_Camera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = portrait_Camera.png; sourceTree = "<group>"; };
+		806170BA18C68AB900C8FF96 /* portrait_Preview.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = portrait_Preview.png; sourceTree = "<group>"; };
+		806170BB18C68AB900C8FF96 /* portrait_RotatedPreview.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = portrait_RotatedPreview.png; sourceTree = "<group>"; };
+		806170BC18C68AB900C8FF96 /* SimpleCamHeader.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SimpleCamHeader.jpg; sourceTree = "<group>"; };
 		80A63A5518C63199000E5673 /* LICENSE.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 		80A63A5618C63199000E5673 /* SimpleCam.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SimpleCam.h; sourceTree = "<group>"; };
 		80A63A5718C63199000E5673 /* SimpleCam.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SimpleCam.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
+		806170AF18C68A8700C8FF96 /* SimpleCamImages */ = {
+			isa = PBXGroup;
+			children = (
+				806170B518C68AA200C8FF96 /* SimpleCamScreenShots */,
+				806170B018C68A9E00C8FF96 /* ViewControllerHeaderExample.png */,
+				806170B118C68A9E00C8FF96 /* AddingSimpleCamSDK.gif */,
+				806170B218C68A9E00C8FF96 /* LaunchSimpleCam.gif */,
+				806170B318C68A9E00C8FF96 /* SetUpDelegate.gif */,
+				806170B418C68A9E00C8FF96 /* ViewControllerHeader.gif */,
+			);
+			name = SimpleCamImages;
+			sourceTree = "<group>";
+		};
+		806170B518C68AA200C8FF96 /* SimpleCamScreenShots */ = {
+			isa = PBXGroup;
+			children = (
+				806170B618C68AB900C8FF96 /* landscape_Camera.png */,
+				806170B718C68AB900C8FF96 /* landscape_Preview.png */,
+				806170B818C68AB900C8FF96 /* landscape_RotatedPreview.png */,
+				806170B918C68AB900C8FF96 /* portrait_Camera.png */,
+				806170BA18C68AB900C8FF96 /* portrait_Preview.png */,
+				806170BB18C68AB900C8FF96 /* portrait_RotatedPreview.png */,
+				806170BC18C68AB900C8FF96 /* SimpleCamHeader.jpg */,
+			);
+			name = SimpleCamScreenShots;
+			sourceTree = "<group>";
+		};
 		809983B718C630EA00518CED = {
 			isa = PBXGroup;
 			children = (
@@ -23,6 +62,7 @@
 		80A63A5418C63199000E5673 /* SimpleCam */ = {
 			isa = PBXGroup;
 			children = (
+				806170AF18C68A8700C8FF96 /* SimpleCamImages */,
 				80A63A5518C63199000E5673 /* LICENSE.txt */,
 				80A63A5618C63199000E5673 /* SimpleCam.h */,
 				80A63A5718C63199000E5673 /* SimpleCam.m */,
