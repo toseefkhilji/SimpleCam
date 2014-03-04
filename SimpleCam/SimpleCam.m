@@ -666,7 +666,6 @@
         captureVideoPreviewLayer.connection.videoOrientation = AVCaptureVideoOrientationPortrait;
     }
     
-    
     [UIView animateWithDuration:duration delay:0 options:UIViewAnimationOptionCurveEaseOut animations:^{
         for (UIView * v in @[capturedImageV, imageStreamV, self.view]) {
             v.frame = targetSize;
