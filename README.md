@@ -1,9 +1,9 @@
 #Adding SimpleCam to Your Project
 
-###1. Add SimpleCamSDK to Xcode
+###1. Add SimpleCam Folder to Xcode
 
-- Unzip SimpleCamSDK
-- Drag SimpleCamSDK into your Xcode project
+- Unzip SimpleCam
+- Drag SimpleCam Folder into your Xcode project
 - Make sure "Copy items into destination group's folder (if needed)" is selected
 
 ###2. Your ViewController.h File
