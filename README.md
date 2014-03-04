@@ -25,7 +25,7 @@
 ```
 
 <p align="center">
-  <img src="https://github.com/LoganWright/SimpleCamDemo/blob/master/SimpleCamDemo/ViewControllerHeader.gif?raw=true"><img />
+  <img src="https://github.com/LoganWright/SimpleCam/blob/master/SimpleCam/ViewControllerHeader.gif?raw=true"><img />
 </p>
 
 ###3. Set Up Delegate
@@ -48,7 +48,7 @@
 This is how SimpleCam will notify your ViewController that the user is finished with it.  If there is an image, then the user took a picture.  If there is not, then the user backed out of the camera without taking a photograph.
 
 <p align="center">
-  <img src="https://github.com/LoganWright/SimpleCamDemo/blob/master/SimpleCamDemo/SetUpDelegate.gif?raw=true" width=750></img> 
+  <img src="https://github.com/LoganWright/SimpleCam/blob/master/SimpleCam/SetUpDelegate.gif?raw=true" width=750></img> 
 </p>
 
 ###4. Launch SimpleCam
@@ -75,20 +75,19 @@ That's it, it's as  simple as that.  SimpleCam will take care of everything else
 #Screen Shots
 
 ###Portrait
-
 <h5 align="center">Camera (About To Capture)</h5>
 <p align="center">
-  <img src="https://github.com/LoganWright/SimpleCamDemo/blob/master/SimpleCamDemo/SimpleCamScreenShots/portrait_Camera.png?raw=true" width=320></img> 
+  <img src="https://github.com/LoganWright/SimpleCam/blob/master/SimpleCam/portrait_Camera.png?raw=true" width=320></img> 
 </p>
 
 <h5 align="center">Preview (Shows Captured Image)</h5>
 <p align="center">
-  <img src="https://github.com/LoganWright/SimpleCamDemo/blob/master/SimpleCamDemo/SimpleCamScreenShots/portrait_Preview.png?raw=true" width=320></img> 
+  <img src="https://github.com/LoganWright/SimpleCam/blob/master/SimpleCam/portrait_Preview.png?raw=true" width=320></img> 
 </p>
 
 <h5 align="center">Preview - Rotated (Maintains Captured Image Ratio)</h5>
 <p align="center">
-  <img src="https://github.com/LoganWright/SimpleCamDemo/blob/master/SimpleCamDemo/SimpleCamScreenShots/portrait_RotatedPreview.png?raw=true" width=568></img> 
+  <img src="https://github.com/LoganWright/SimpleCam/blob/master/SimpleCam/portrait_RotatedPreview.png?raw=true" width=568></img> 
 </p>
 
 
@@ -96,15 +95,15 @@ That's it, it's as  simple as that.  SimpleCam will take care of everything else
 
 <h5 align="center">Camera (About To Capture)</h5>
 <p align="center">
-  <img src="https://github.com/LoganWright/SimpleCamDemo/blob/master/SimpleCamDemo/SimpleCamScreenShots/landscape_Camera.png?raw=true" width=568></img> 
+  <img src="https://github.com/LoganWright/SimpleCam/blob/master/SimpleCam/landscape_Camera.png?raw=true" width=568></img> 
 </p>
 
 <h5 align="center">Preview (Shows Captured Image)</h5>
 <p align="center">
-  <img src="https://github.com/LoganWright/SimpleCamDemo/blob/master/SimpleCamDemo/SimpleCamScreenShots/landscape_Preview.png?raw=true" width=568></img> 
+  <img src="https://github.com/LoganWright/SimpleCam/blob/master/SimpleCam/landscape_Preview.png?raw=true" width=568></img> 
 </p>
 
 <h5 align="center">Preview - Rotated (Maintains Captured Image Ratio)</h5>
 <p align="center">
-  <img src="https://github.com/LoganWright/SimpleCamDemo/blob/master/SimpleCamDemo/SimpleCamScreenShots/landscape_RotatedPreview.png?raw=true" width=320></img> 
+  <img src="https://github.com/LoganWright/SimpleCam/blob/master/SimpleCam/landscape_RotatedPreview.png?raw=true" width=320></img> 
 </p>
