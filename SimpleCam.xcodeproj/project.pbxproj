@@ -6,11 +6,28 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		80A63A5518C63199000E5673 /* LICENSE.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
+		80A63A5618C63199000E5673 /* SimpleCam.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SimpleCam.h; sourceTree = "<group>"; };
+		80A63A5718C63199000E5673 /* SimpleCam.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SimpleCam.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		809983B718C630EA00518CED = {
 			isa = PBXGroup;
 			children = (
+				80A63A5418C63199000E5673 /* SimpleCam */,
 			);
+			sourceTree = "<group>";
+		};
+		80A63A5418C63199000E5673 /* SimpleCam */ = {
+			isa = PBXGroup;
+			children = (
+				80A63A5518C63199000E5673 /* LICENSE.txt */,
+				80A63A5618C63199000E5673 /* SimpleCam.h */,
+				80A63A5718C63199000E5673 /* SimpleCam.m */,
+			);
+			path = SimpleCam;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
